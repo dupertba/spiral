@@ -12,6 +12,6 @@ def spiralize(number):
             y += 2
             n = 0
 
-    return return_value
+    return z
 
 print(spiralize(501))
