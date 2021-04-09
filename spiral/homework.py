@@ -11,7 +11,7 @@ def spiralize(number):
         if n == 4:
             y += 2
             n = 0
-
     return z
+
 
 print(spiralize(501))
