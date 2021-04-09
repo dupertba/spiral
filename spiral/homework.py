@@ -4,7 +4,7 @@ def spiralize(number):
     z = 0
     n = 0
 
-    while x <= pow(number,2):
+    while x <= pow(number, 2):
         z += x
         x += y
         n += 1
